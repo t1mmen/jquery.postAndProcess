@@ -41,7 +41,7 @@ $('#PostsSearch').postAndProcess({
     paginationCounter : '#current_page'
 });
 
-Read more about the [expected <code>JSON</code> response](#json-envelope)
+Read more about the [expected JSON response](#json-envelope)
 
 
 ## Options
