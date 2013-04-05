@@ -42,7 +42,7 @@ $('#PostsSearch').postAndProcess({
 });
 
 Read more about the [expected JSON response](#json-envelope)
-
+```
 
 ## Options
 <dl>
