@@ -40,9 +40,9 @@ $('#PostsSearch').postAndProcess({
     template : '#myTemplate',
     paginationCounter : '#current_page'
 });
-
-Read more about the [expected JSON response](#json-envelope)
 ```
+Read more about the [expected JSON response](#json-envelope)
+
 
 ## Options
 <dl>
